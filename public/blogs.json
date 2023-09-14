@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 12345,
+        "Cover": "https://i.ibb.co/mtCTcXf/1.jpg",
+        "Title": "Exploring the World of Artificial Intelligence",
+        "Author": "Jane Smith",
+        "Author_Image": "https://i.ibb.co/5vmYLV2/girl1.jpg",
+        "Posted_Date": "September 14, 2023",
+        "Reading_Time": 20,
+        "Hashtags": ["#AI", "#MachineLearning", "#Technology"]
+    },
+    {
+        "ID": 67890,
+        "Cover": "https://i.ibb.co/gg9P1Bc/2.png",
+        "Title": "A Culinary Journey: Tasting Exotic Flavors",
+        "Author": "John Doe",
+        "Author_Image": "https://i.ibb.co/6gjSLVL/boy1.png",
+        "Posted_Date": "September 13, 2023",
+        "Reading_Time": 8,
+        "Hashtags": ["#Foodie", "#Cuisine", "#Travel"]
+    },
+    {
+        "ID": 54321,
+        "Cover": "https://example.com/image3.jpg",
+        "Title": "The Art of Photography: Capturing Moments",
+        "Author": "Emily Wilson",
+        "Author_Image": "https://i.ibb.co/hDL373M/girl2.jpg",
+        "Posted_Date": "September 12, 2023",
+        "Reading_Time": 25,
+        "Hashtags": ["#Photography", "#Art", "#Creativity"]
+    },
+    {
+        "ID": 98765,
+        "Cover": "https://i.ibb.co/85Sm7qB/4.jpg",
+        "Title": "Financial Planning for a Secure Future",
+        "Author": "David Brown",
+        "Author_Image": "https://i.ibb.co/48ntXqn/boy2.jpg",
+        "Posted_Date": "September 11, 2023",
+        "Reading_Time": 12,
+        "Hashtags": ["#Finance", "#Investment", "#Retirement"]
+    }
+]
